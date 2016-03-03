@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjetoTreinamentoTeste", "ProjetoTreinamentoTeste\ProjetoTreinamentoTeste.csproj", "{1DF6E430-C0B7-428A-BF14-E8D12D2DFD71}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{1C2066F0-7160-40DB-81F7-09C4E5D62747}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1DF6E430-C0B7-428A-BF14-E8D12D2DFD71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1DF6E430-C0B7-428A-BF14-E8D12D2DFD71}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1DF6E430-C0B7-428A-BF14-E8D12D2DFD71}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1DF6E430-C0B7-428A-BF14-E8D12D2DFD71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C2066F0-7160-40DB-81F7-09C4E5D62747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C2066F0-7160-40DB-81F7-09C4E5D62747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C2066F0-7160-40DB-81F7-09C4E5D62747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C2066F0-7160-40DB-81F7-09C4E5D62747}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
