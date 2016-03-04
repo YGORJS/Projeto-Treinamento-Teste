@@ -8,6 +8,6 @@ namespace Dominio
 {
     public class Teledramaturgia : Obra
     {
-        public int capitulos { get; set; }
+        public int Capitulos { get; set; }
     }
 }

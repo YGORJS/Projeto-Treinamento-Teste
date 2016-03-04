@@ -8,6 +8,6 @@ namespace Dominio
 {
     public class Serie : Obra
     {
-        public string Capitulos { get; set; }
+        public string Temporadas { get; set; }
     }
 }
