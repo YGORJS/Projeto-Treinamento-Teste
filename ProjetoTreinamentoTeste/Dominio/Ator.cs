@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Dominio
 {
-    class Ator : Pessoa
+    public class Ator : Pessoa
     {
-        public ICollection <Obra> Obras{ get; set; }
+        public ICollection<Obra> Obras{ get; set; }
         public string Biografia { get; set; }
     }
 }
